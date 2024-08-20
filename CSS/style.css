@@ -69,3 +69,21 @@ img {
   display: block;
   margin: 20px auto;
 }
+
+.btn {
+  display: inline-block;
+  background-color: #ffcc00;
+  color: #181818;
+  padding: 10px 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn:hover {
+  background-color: #e6b800;
+  transform: translateY(-2px);
+}
