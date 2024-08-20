@@ -20,14 +20,14 @@ h1, h3 {
   color: #f5f5f5;
 }
 
-a {
+.a_btn {
   text-decoration: none;
   color: #ffcc00;
   font-weight: 500;
   margin: 20px;
 }
 
-a:hover {
+.a_btn:hover {
   text-decoration: underline;
 }
 
