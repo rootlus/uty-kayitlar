@@ -6,3 +6,11 @@
 
 <h3>Undertale Yellow - Türkçe: https://gamejolt.com/games/UndertaleYellowTr/915170</h3>
 <h3>Yama Çevirenler Discord: https://discord.gg/cevirisantrali</h3>
+
+<hr>
+
+<h1 class="#kurulum">Kayıt Dosyası Nasıl Yüklenir?</h1>
+<h3>1-) Bilgisayarından Windows+R yada arama yerine çalıştırı aç.</h3>
+<h3>2-) Arama yerine "AppData" yazın ve tamam diyin.</h3>
+<h3>3-) "Local"a basın ve "Undertale_Yellow" klasörü bulun.</h3>
+<h3>4-) RAR Dosyasındaki tüm .sav dosyaları o konuma atın ve oyunu başlatın.</h3>
