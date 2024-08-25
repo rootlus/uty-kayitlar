@@ -10,10 +10,11 @@
 
 <hr>
 
-![flowey](https://github.com/user-attachments/assets/fc966ab1-22e5-483a-90c6-8c1e207da902)
-
 <h1 class="#kurulum">Kayıt Dosyası Nasıl Yüklenir?</h1>
 <h3>1-) Bilgisayarından Windows+R yada arama yerine "çalıştır"ı aç.</h3>
 <h3>2-) Arama yerine "AppData" yazın ve tamam diyin.</h3>
 <h3>3-) "Local"a basın ve "Undertale_Yellow" klasörü bulun.</h3>
 <h3>4-) RAR Dosyasındaki tüm .sav dosyaları o konuma atın ve oyunu başlatın.</h3>
+
+
+![flowey](https://github.com/user-attachments/assets/87a132f3-03b9-4454-97b5-ede11fb8d12c)
