@@ -10,7 +10,9 @@
 
 <hr>
 
-<h1 class="#kurulum">Kayıt Dosyası Nasıl Yüklenir?</h1> ![flowey](https://github.com/user-attachments/assets/5286d2d3-61d8-4c24-be97-84b0b1d0b06f)
+![flowey](https://github.com/user-attachments/assets/fc966ab1-22e5-483a-90c6-8c1e207da902)
+
+<h1 class="#kurulum">Kayıt Dosyası Nasıl Yüklenir?</h1>
 <h3>1-) Bilgisayarından Windows+R yada arama yerine "çalıştır"ı aç.</h3>
 <h3>2-) Arama yerine "AppData" yazın ve tamam diyin.</h3>
 <h3>3-) "Local"a basın ve "Undertale_Yellow" klasörü bulun.</h3>
