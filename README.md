@@ -1,4 +1,5 @@
-![35051216-fskuddyw-v4](https://github.com/user-attachments/assets/e5ab7f48-7788-4241-a1d9-ac7090c2370a)
+
+![ut-yellow_geri_savas_banner](https://github.com/user-attachments/assets/ec31d803-6b58-4081-834f-f623dfa1dba7)
 
 <h1>Undertale Yellow - Geri Savaş, Sayesinde Canavarlar ile Tekrar Savaşma imkanın sunulur.</h1>
 
