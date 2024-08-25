@@ -5,6 +5,11 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
+  
+}
+
+.scroll-container::-webkit-scrollbar {
+  display: none;
 }
 
 .container {
