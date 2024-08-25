@@ -5,7 +5,7 @@
 
 <h2>⚠UYARI⚠ <br><br> Bu Kayıtlar Undertale Yellow Türkçe yamaları içindir. Orjinal oyunda yüklerseniz eşyalardan dolayı oyununuz softlock olacaktır.</h2>
 
-<h3>Undertale Yellow - Türkçe: https://gamejolt.com/games/UndertaleYellowTr/915170</h3>
+<h3>Undertale Yellow - Türkçe: <a href="https://gamejolt.com/games/UndertaleYellowTr/915170" target="_blank">TIKLA GİT</a></h3>
 <h3>Yama Çevirenler Discord: https://discord.gg/cevirisantrali</h3>
 
 <hr>
