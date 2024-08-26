@@ -8,8 +8,17 @@ body {
   
 }
 
-.scroll-container::-webkit-scrollbar {
+::-webkit-scrollbar {
   display: none;
+}
+
+* {
+  scrollbar-width: none; /* Disable scrollbar in Firefox */
+  scrollbar-color: transparent transparent; /* Hide the scrollbar, but allow scrolling */
+}
+
+* {
+  -ms-overflow-style: none; /* Hide scrollbar in IE */
 }
 
 .container {
@@ -19,6 +28,7 @@ body {
   background-color: #242424;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  text-align: center;
 }
 
 h1, h3 {
@@ -40,34 +50,6 @@ hr {
   border-color: #555;
   border-style: solid;
   margin: 20px 0;
-}
-
-a font[color="yellow"] {
-  color: #ffe082;
-}
-
-a font[color="purple"] {
-  color: #b39ddb;
-}
-
-a font[color="blue"] {
-  color: #64b5f6;
-}
-
-a font[color="orange"] {
-  color: #ffb74d;
-}
-
-a font[color="#aa42f5"] {
-  color: #d1c4e9;
-}
-
-a font[color="black"] {
-  color: #9e9e9e;
-}
-
-a font[color="pink"] {
-  color: #f8bbd0;
 }
 
 img {
@@ -114,4 +96,21 @@ img {
 .btn_:hover {
   background-color: #e6b800;
   transform: translateY(-2px);
+}
+
+.iyi-son, .kotu-son, .notr {
+  margin-bottom: 20px;
+}
+
+.btn_saves {
+  display: inline-block;
+  color: #181818;
+  padding: 10px 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s, transform 0.3s;
+  text-decoration: none;
 }
