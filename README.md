@@ -10,11 +10,11 @@
 
 <h4>Özel Teşekkürler:</h4>
         <ul>
-            <li>MasterSwordRemix (Undertale Yellow Direktörü.)</li>
+            <li><a href="https://www.youtube.com/@MasterSwordRemix/" target="_blank">MasterSwordRemix (Undertale Yellow Direktörü.)</a></li>
             <li>Hugo the Waffle (Türkçe Çeviri Direktörü.)</li>
-            <li>Flower of Justice (Nötr, Kötü son dosyalarının sahibi.)</li>
-            <li>Mehmet Efe (İyi Son Dosyaların Sahibi.)</li>
-            <li>nekokedi (İyi Son Dosyalarını Test eden.)</li>
+            <li><a href="https://www.youtube.com/@adaletincicegi" target="_blank">Flower of Justice (Nötr, Kötü son dosyalarının sahibi.)</a></li>
+            <li><a href="https://steamcommunity.com/profiles/76561199566045206/" target="_blank">Mehmet Efe (İyi Son Dosyaların Sahibi.)</a></li>
+            <li><a href="https://steamcommunity.com/profiles/76561199480948461/" target="_blank">nekokedi (Test eden.)</a></li>
             <li>Ve Sana 💛</li>
         </ul>
 
