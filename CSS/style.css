@@ -13,12 +13,12 @@ body {
 }
 
 * {
-  scrollbar-width: none; /* Disable scrollbar in Firefox */
-  scrollbar-color: transparent transparent; /* Hide the scrollbar, but allow scrolling */
+  scrollbar-width: none;
+  scrollbar-color: transparent transparent;
 }
 
 * {
-  -ms-overflow-style: none; /* Hide scrollbar in IE */
+  -ms-overflow-style: none;
 }
 
 .container {
@@ -113,4 +113,17 @@ img {
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
   transition: background-color 0.3s, transform 0.3s;
   text-decoration: none;
+}
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  50% { transform: translateX(5px); }
+  75% { transform: translateX(-5px); }
+  100% { transform: translateX(0); }
+}
+
+.shake {
+  display: inline-block;
+  animation: shake 0.5s infinite;
 }
