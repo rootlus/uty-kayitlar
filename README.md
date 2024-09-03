@@ -8,6 +8,16 @@
 <h3>Undertale Yellow - Türkçe: <a href="https://gamejolt.com/games/UndertaleYellowTr/915170" target="_blank">TIKLA GİT</a></h3>
 <h3>Yama Çevirenler Discord: <a href="https://discord.gg/cevirisantrali" target="_blank">TIKLA KATIL</a></h3>
 
+<h4>Özel Teşekkürler:</h4>
+        <ul>
+            <li>MasterSwordRemix (Undertale Yellow Direktörü.)</li>
+            <li>Hugo the Waffle (Türkçe Çeviri Direktörü.)</li>
+            <li>Flower of Justice (Nötr, Kötü son dosyalarının sahibi.)</li>
+            <li>Mehmet Efe (İyi Son Dosyaların Sahibi.)</li>
+            <li>nekokedi (İyi Son Dosyalarını Test eden.)</li>
+            <li>Ve Sana 💛</li>
+        </ul>
+
 <hr>
 
 <h1 class="#kurulum">Kayıt Dosyası Nasıl Yüklenir?</h1>
