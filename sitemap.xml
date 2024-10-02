@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://gerisavas.netlify.app/</loc>
+	<lastmod>2024-10-02T10:30:28+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://gerisavas.netlify.app/all_boss/</loc>
+	<lastmod>2024-10-02T10:30:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://gerisavas.netlify.app/all_saves/</loc>
+	<lastmod>2024-10-02T10:30:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://gerisavas.netlify.app/extra/</loc>
+	<lastmod>2024-10-02T10:30:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://gerisavas.netlify.app/all_saves/iyi_son/</loc>
+	<lastmod>2024-10-02T10:30:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://gerisavas.netlify.app/all_saves/kotu_son/</loc>
+	<lastmod>2024-10-02T10:30:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://gerisavas.netlify.app/all_saves/notr_son/</loc>
+	<lastmod>2024-10-02T10:30:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+</urlset>
