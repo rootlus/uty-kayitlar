@@ -25,6 +25,3 @@
 <h3>2-) Arama yerine "AppData" yazın ve tamam diyin.</h3>
 <h3>3-) "Local"a basın ve "Undertale_Yellow" klasörü bulun.</h3>
 <h3>4-) RAR Dosyasındaki tüm .sav dosyaları o konuma atın ve oyunu başlatın.</h3>
-
-
-![flowey](https://github.com/user-attachments/assets/87a132f3-03b9-4454-97b5-ede11fb8d12c)
