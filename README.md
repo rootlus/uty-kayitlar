@@ -1,7 +1,7 @@
 
 ![ut-yellow_geri_savas_banner](https://github.com/user-attachments/assets/ec31d803-6b58-4081-834f-f623dfa1dba7)
 
-<h1 align="center">Undertale Yellow - Geri Savaş, Sayesinde Canavarlar ile Tekrar Savaşma imkanın sunulur.</h1>
+<h1 align="center">Undertale Yellow - Geri Savaş, Sayesinde Farklı Kayıtlara Dönebilirsiniz.</h1>
 
 <h2>⚠UYARI⚠ <br><br> Bu Kayıtlar Undertale Yellow Türkçe yamaları içindir. Orjinal oyunda yüklerseniz eşyalardan dolayı oyununuz softlock olacaktır.</h2>
 <h2>Orjinal Kayıt Dosyaları Arıyorsanız: <a href="https://drive.google.com/drive/folders/1LBnJ4ZZSOfmHr7KzlEmpKOIeUJm7Ua5_">BURAYA TIKLA</a></h2>
