@@ -3,22 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UYT Geri Savaş - İyi Son</title>
-    <link rel="stylesheet" href="../../CSS/style.css">
-    <link rel="shortcut icon" type="image/x-icon" href="../../img/clover.png" />
+    <title>UYT Geri Savaş - Kötü Son</title>
+    <link rel="stylesheet" href="../../../CSS/styles.css">
+    <link rel="shortcut icon" type="image/x-icon" href="../../../img/clover.png" />
 </head>
 <body>
+
+
+    <div class="navbar">
+        <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+        <div class="navbar-links" id="navbar-links">
+            <a href="../../../">Ana Sayfa</a>
+            <a href="../../all_boss/">Tüm Bosslar</a>
+            <a href="../">Tüm Kayıtlar</a>
+            <a href="../../extra/">Ekstra</a>
+        </div>
+    </div>
+
+
+
     <div class="container">
         <picture>
-            <img src="../../img/clover.png" width="100px" height="100px" alt="logo">
+            <img src="../../../img/clover.png" width="150px" height="150px" alt="logo">
         </picture>
 
         <h1 align="center">
             <font color="yellow">Geri Savaş <font color="red"> Kötü Son </font> </font>
         </h1>
         <a class="a_btn" href="https://github.com/Worux/uty-kayitlar/tree/main#kay%C4%B1t-dosyas%C4%B1-nas%C4%B1l-y%C3%BCklenir" target="_blank"><h3 align="center">Nasıl Kurucağını bilmiyor musun?</h3></a>
-
-        <a class="btn_" href="../index.html">Geri Dön</a>
 
         <hr>
         <h2><font color="#b39ddb">LOŞ HARABELER</font></h2>
@@ -86,8 +98,15 @@
         <h4>
             <a class="btn_saves" style="background-color: gray;" href="save_files/32. Sıcak Diyar Asansörü.zip">Sıcakdiyar Asansörü</a>
             <a class="btn_saves" style="background-color: gray;" href="save_files/33. Martlet Savaşı.zip">Doruk Martlet Savaşı</a>
-            <a class="btn_saves" style="background-color: gray;" href="save_files/34. Adaleti Sağlamak.zip"><font color="yellow" class="shake">Adalet.</font></a>
+            <a class="btn_saves" style="background-color: gray;" href="save_files/34. Adaleti Sağlamak.zip"><font color="yellow" class="shake">Adalet</font></a>
         </h4>
     </div>
+
+    <script>
+        function toggleMenu() {
+            const navbarLinks = document.getElementById('navbar-links');
+            navbarLinks.classList.toggle('active');
+        }
+    </script>
 </body>
 </html>

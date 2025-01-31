@@ -3,50 +3,87 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/styles.css">
     <title>UTY Geri Savaş</title>
-    <link rel="stylesheet" href="CSS/style.css">
-    <meta name="description" content="Undertale Yellow Geri Savaş, kayıt dosyaların bulunduğu site...">
-    <link rel="shortcut icon" type="image/x-icon" href="img/clover.png" />
-    <meta name="keywords" content="Undertale Yellow, Undertale Yellow Kayıt Dosyaları, Undertale Yellow Geri Savaş, Undertale Yellow Türkçe, Undertale Yellow Türkçe Kayıt Dosyaları">
+    <link rel="shortcut icon" type="image/x-icon" href="img/clover.png">
 </head>
 <body>
+    <div class="navbar">
+        <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+        <div class="navbar-links" id="navbar-links">
+            <a href="#">Ana Sayfa</a>
+            <a href="Pages/all_boss/">Tüm Bosslar</a>
+            <a href="Pages/all_saves/">Tüm Kayıtlar</a>
+            <a href="Pages/extra/">Ekstra</a>
+        </div>
+    </div>
+
+
+
     <div class="container">
-        <picture>
-            <img srcset="img/clover.png" loading="lazy" width="100px" height="100px" alt="logo" type="image/png" align="center">
-        </picture>
+        <img src="img/clover.png" alt="clover" width="150px" height="150px">
 
-        <h1 align="center">
-            <font color="yellow">Geri Savaş</font> <br>
-        </h1>
+        <h3><font color="yellow">Undertale Yellow - Geri Savaş</font></h3>
 
-        <h3 align="center">Not: Bu kayıtlar Undertale Yellow Türkçe yama içindir!</h3>
-        <h4 align="center"> <a class="a_btn" href="https://gamejolt.com/games/UndertaleYellowTr/915170" target="_blank"> UNDERTALE YELLOW TÜRKÇE YAMA İNDİR </a></h4>
-        <h4 align="center">Yama Ekibi Discord:<a class="a_btn" href="https://discord.com/invite/cevirisantrali" target="_blank"><font color="cyan">TIKLA KATIL</font></a> </h4>
-        <h4 align="center">Son Güncelleme: 23.10.2024</h4>
+        <h4>Not: Bu kayıtlar Undertale Yellow Türkçe yama içindir!</h4>
 
-        <hr>
+        <br><br><br><br>
 
-        <a class="btn_" href="all_boss/index.html">Tüm Bosslar</a>
+        <a class="a_btn" href="https://gamejolt.com/games/UndertaleYellowTr/915170" target="_blank"> UNDERTALE YELLOW TÜRKÇE YAMA İNDİR </a>
 
-        <a class="btn_" href="all_saves/index.html">Tüm Kayıtlar</a>
+        <h4 align="center">Yama Ekibi Discord:<a class="a_btn" href="https://discord.com/invite/cevirisantrali" target="_blank"><font color="cyan" style="--darkreader-inline-color: #1affff;" data-darkreader-inline-color="">TIKLA KATIL</font></a> </h4>
 
-        <a class="btn_" href="extra/index.html">Ekstra</a>
+        <br><br>
 
-        <hr>
 
-        <a href="https://github.com/Worux/uty-kayitlar" target="_blank" class="btn_">Kaynak Kodu</a>
-
-        <img alt="Cute right?" src="img/clover_martlet.gif" width="100px">
-
-        <h4>Özel Teşekkürler:</h4>
+        
         <ul>
-            <li><a class="a_btn" style="color:yellow;" href="https://www.youtube.com/@MasterSwordRemix/" target="_blank">MasterSwordRemix (Undertale Yellow Direktörü.)</a></li>
-            <li><a class="a_btn" style="color:cyan;" href="https://www.youtube.com/@hugo_the_waffle">Hugo the Waffle (Türkçe Çeviri Direktörü.)</a></li>
-            <li><a class="a_btn" style="color:cyan;" href="https://www.youtube.com/@adaletincicegi" target="_blank">Flower of Justice (Nötr, Kötü son dosyalarının sahibi.)</a></li>
-            <li><a class="a_btn" style="color:cyan;" href="https://steamcommunity.com/profiles/76561199566045206/" target="_blank">Mehmet Efe (İyi Son Dosyaların Sahibi.)</a></li>
-            <li><a class="a_btn" style="color:cyan;" href="https://steamcommunity.com/profiles/76561199480948461/" target="_blank">nekokedi (Test eden.)</a></li>
+            <h4>Özel Teşekkürler:</h4>
+            <li><a class="a_btn"  href="https://www.youtube.com/@MasterSwordRemix/" target="_blank" title="Undertale Yellow Direktörü">MasterSwordRemix</a></li>
+            <li><a class="a_btn"  href="https://www.youtube.com/@hugo_the_waffle" target="_blank" title="Türkçe Çeviri Direktörü">Hugo the Waffle</a></li>
+            <li><a class="a_btn"  href="https://www.youtube.com/@adaletincicegi" target="_blank" title="Nötr, Kötü son dosyalarının sahibi.">Flower of Justice</a></li>
+            <li><a class="a_btn"  href="https://steamcommunity.com/profiles/76561199566045206/" target="_blank" title="İyi Son Dosyaların Sahibi">Mehmet Efe</a></li>
+            <li><a class="a_btn"  href="https://steamcommunity.com/profiles/76561199480948461/" target="_blank" title="Test eden">nekokedi</a></li>
+            <li><a class="a_btn"  href="" target="_blank" title="🔥🔥🔥" id="emojiLink">Ateş</a></li>    
             <li>Ve Sana 💛</li>
+            <div id="emojiContainer"></div>
         </ul>
     </div>
+
+
+
+    <script>
+        function toggleMenu() {
+            const navbarLinks = document.getElementById('navbar-links');
+            navbarLinks.classList.toggle('active');
+        }
+
+
+        document.getElementById('emojiLink').addEventListener('click', function(event) {
+        event.preventDefault();
+
+        // Emoji oluştur
+        const emoji = document.createElement('span');
+        emoji.className = 'emoji';
+        emoji.innerText = '🔥';
+        document.getElementById('emojiContainer').appendChild(emoji);
+
+        // Emoji'nin konumunu ayarla
+        const linkRect = this.getBoundingClientRect();
+        emoji.style.left = `${linkRect.left + linkRect.width / 2}px`;
+        emoji.style.top = `${linkRect.top}px`;
+
+        // Emojiyi göster
+        setTimeout(() => {
+            emoji.style.opacity = '1';
+            emoji.classList.add('fly');
+        }, 10);
+
+
+        setTimeout(() => {
+            emoji.remove();
+        }, 1000);
+    });
+    </script>
 </body>
 </html>
