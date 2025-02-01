@@ -121,8 +121,12 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
-    transition: background-color 0.3s, transform 0.3s;
+    transition: transform 0.3s ease;
     text-decoration: none;
+  }
+
+  .btn_saves:hover {
+    transform: scale(1.2);
   }
 
 
