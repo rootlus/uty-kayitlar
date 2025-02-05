@@ -16,6 +16,7 @@
             <li><a href="https://www.youtube.com/@adaletincicegi" target="_blank">Flower of Justice (Nötr, Kötü son dosyalarının sahibi.)</a></li>
             <li><a href="https://steamcommunity.com/profiles/76561199566045206/" target="_blank">Mehmet Efe (İyi Son Dosyaların Sahibi.)</a></li>
             <li><a href="https://steamcommunity.com/profiles/76561199480948461/" target="_blank">nekokedi (Test eden.)</a></li>
+            <li>Ateş 🔥</li>
             <li>Ve Sana 💛</li>
         </ul>
 
