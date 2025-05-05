@@ -1,15 +1,47 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-  <loc>http://rootlus.github.io/Pages/all_boss/</loc>
+  <loc>https://rootlus.github.io/uty-kayitlar/</loc>
+  <lastmod>2025-02-05T12:09:31+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://rootlus.github.io/Pages/all_saves/</loc>
+  <loc>https://rootlus.github.io/uty-kayitlar/Pages/all_boss/</loc>
+  <lastmod>2025-02-05T12:09:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://rootlus.github.io/Pages/extra/</loc>
+  <loc>https://rootlus.github.io/uty-kayitlar/Pages/all_saves/</loc>
+  <lastmod>2025-02-05T12:09:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://rootlus.github.io/</loc>
+  <loc>https://rootlus.github.io/uty-kayitlar/Pages/extra/</loc>
+  <lastmod>2025-02-05T12:09:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://rootlus.github.io/uty-kayitlar/Pages/all_saves/iyi_son/index.html</loc>
+  <lastmod>2025-02-05T12:09:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rootlus.github.io/uty-kayitlar/Pages/all_saves/kotu_son/index.html</loc>
+  <lastmod>2025-02-05T12:09:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rootlus.github.io/uty-kayitlar/Pages/all_saves/notr_son/index.html</loc>
+  <lastmod>2025-02-05T12:09:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
