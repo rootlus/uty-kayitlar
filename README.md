@@ -1,4 +1,6 @@
-<center>"siber.tr" discord hesabım kullanılmamaktadır. Hesaba erişilemiyor, uzun hikaye. Sadece bilin yeter. Bug sorunlarını Github'da, "<a href="https://github.com/rootlus/uty-kayitlar/issues">issues</a>" kısmından yazabilirsiniz.</center>
+<h3 align="center">"siber.tr" discord hesabım kullanılmamaktadır. Hesaba erişilemiyor, uzun hikaye. Sadece bilin yeter. Bug sorunlarını Github'da, "<a href="https://github.com/rootlus/uty-kayitlar/issues">issues</a>" kısmından yazabilirsiniz.</h3>
+
+<br><br>
 
 ![ut-yellow_geri_savas_banner](https://github.com/user-attachments/assets/ec31d803-6b58-4081-834f-f623dfa1dba7)
 
