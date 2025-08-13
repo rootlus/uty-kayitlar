@@ -1,4 +1,4 @@
-<h3 align="center">"siber.tr" discord hesabım kullanılmamaktadır. Hesaba erişilemiyor, uzun hikaye. Sadece bilin yeter. Bug sorunlarını Github'da, "<a href="https://github.com/rootlus/uty-kayitlar/issues">issues</a>" kısmından yazabilirsiniz.</h3>
+<h3 align="center">Bug sorunlarını Github'da, "<a href="https://github.com/rootlus/uty-kayitlar/issues">issues</a>" kısmından yazabilirsiniz.</h3>
 
 <br><br>
 
