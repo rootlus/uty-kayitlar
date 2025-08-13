@@ -33,10 +33,17 @@
 <h3>3-) "Local"a basın ve "Undertale_Yellow" klasörü bulun. (Yok ise siz oluşturun)</h3>
 <h3>4-) RAR Dosyasındaki tüm .sav dosyaları o konuma atın ve oyunu başlatın.</h3>
 
-<h3>Linux</h3>
+<hr>
+
+<h2>Linux</h2>
 <h3>NOT: Undertale Yellow'u çalıştırman için <b>Wine</b> yazılımını kullanabiirsiniz.</h3>
 <h3>1-) Wine dizinine gidin, genelde: "/home/user/.wine"de olur.</h3>
 <h3>2-) Böyle devam edin: ".wine/drive_c/users/owner/AppData</h3>
 <h3>3-) "Local"a basın ve "Undertale_Yellow" klasörü bulun. (Yok ise siz oluşturun)</h3>
 <h3>4-) RAR Dosyasındaki tüm .sav dosyaları o konuma atın ve oyunu başlatın.</h3>
+
+<hr>
+
+<h3>MacOS</h3>
+<h3>MacOS hakkında pek bilgim yok maalesef. Sanırım Linux yöntemi ile aynı mantık ile çalışır. (Wine yükle, çalıştır, falan, filan)</h3>
 
