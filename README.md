@@ -26,7 +26,17 @@
 <hr>
 
 <h1 class="#kurulum">Kayıt Dosyası Nasıl Yüklenir?</h1>
+
+<h2>Windows<h2>
 <h3>1-) Bilgisayarından Windows+R yada arama yerine "çalıştır"ı aç.</h3>
 <h3>2-) Arama yerine "AppData" yazın ve tamam diyin.</h3>
-<h3>3-) "Local"a basın ve "Undertale_Yellow" klasörü bulun.</h3>
+<h3>3-) "Local"a basın ve "Undertale_Yellow" klasörü bulun. (Yok ise siz oluşturun)</h3>
 <h3>4-) RAR Dosyasındaki tüm .sav dosyaları o konuma atın ve oyunu başlatın.</h3>
+
+<h3>Linux</h3>
+<h3>NOT: Undertale Yellow'u çalıştırman için <b>Wine</b> yazılımını kullanabiirsiniz.</h3>
+<h3>1-) Wine dizinine gidin, genelde: "/home/user/.wine"de olur.</h3>
+<h3>2-) Böyle devam edin: ".wine/drive_c/users/owner/AppData</h3>
+<h3>3-) "Local"a basın ve "Undertale_Yellow" klasörü bulun. (Yok ise siz oluşturun)</h3>
+<h3>4-) RAR Dosyasındaki tüm .sav dosyaları o konuma atın ve oyunu başlatın.</h3>
+
